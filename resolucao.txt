@@ -1,0 +1,8 @@
+Movimentos: ['cima', 'cima', 'direita', 'baixo', 'baixo', 'esquerda', 'cima', 'cima', 'esquerda', 'baixo', 'direita', 'baixo', 'esquerda', 'cima', 'direita', 'direita', 'baixo', 'esquerda', 'cima', 'direita', 'cima', 'esquerda', 'baixo', 'direita', 'baixo']
+Custo da solucao: 25
+Nodos expandidos: 28864
+Tamanho da fronteira: 14
+Tamanho maximo da fronteira: 24
+Profundidade da busca: 25
+Profundidade maxima da busca: 25
+Tempo gasto em ms: 0.00000030

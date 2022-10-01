@@ -1,1 +1,2 @@
-# INE5633-Artificial-Intelligence
+# sistemas-inteligentes
+repositório para as tarefas de sistemas inteligentes
